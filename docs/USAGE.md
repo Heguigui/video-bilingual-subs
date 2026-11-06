@@ -29,6 +29,7 @@ Highest first: 1080p → 720p. Above 1080p only when the user asks; the burn re-
 
 - **Default — burned file.** Chinese over English, English soft track embedded, `+faststart`.
 - **Sidecar only.** Run steps 1–6, hand over `zh_en.srt`. No re-encode, no quality loss, the player does the styling.
+- **Summary + chapters** *(planned)*. A timestamped `summary.zh-en.md` and player chapter markers, built from the same corrected blocks.
 
 ## Quality rules the agent must hold
 

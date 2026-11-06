@@ -74,7 +74,7 @@ examples/
 - [Usage](docs/USAGE.md) — inputs, delivery modes, what "done" means
 - [Pipeline](docs/PIPELINE.md) — the nine steps and why each exists
 - [Troubleshooting](docs/TROUBLESHOOTING.md) — the failures you will actually hit
-- [Roadmap](docs/ROADMAP.md) — bidirectional mode, round-trip QA, transcription fallback
+- [Roadmap](docs/ROADMAP.md) — bidirectional mode, round-trip QA, summaries and chapters, transcription fallback
 
 Chinese: [README](README.zh-CN.md) · [docs/zh-CN](docs/zh-CN)
 
@@ -89,7 +89,8 @@ Chinese: [README](README.zh-CN.md) · [docs/zh-CN](docs/zh-CN)
 
 Direction, not promises — see [docs/ROADMAP.md](docs/ROADMAP.md).
 
-- **Bidirectional mode** (planned): Chinese-language source → English subtitles, same dual layout
+- **Bidirectional mode** (planned): source language and target language become switchable, layout flips with the target
+- **Bilingual summary + chapter markers** (planned): timestamped TL;DR, outline and quotes built from the corrected blocks
 - Sidecar-only mode without re-encode
 - Whisper fallback for sources with no caption track
 - ASS styling presets and a preview contact sheet

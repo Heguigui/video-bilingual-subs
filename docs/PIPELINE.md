@@ -54,6 +54,10 @@ libass via the `subtitles` filter, Microsoft YaHei, white fill with a black outl
 
 `ffprobe` for duration; five sampled frames for presence, stacking and clipping; one SRT cue against its timestamp for sync; `check_srt.py` for structural faults.
 
+## Derived artifacts (planned)
+
+Summaries and chapters branch off after step 6, before the burn: the paired blocks are already sentence-aligned and corrected, so the summary writer reads proof, not guesses. Each bullet carries the cue timestamp it came from; chapters are the same data collapsed to 12–20 anchors and written as ffmetadata during the encode. See [ROADMAP](ROADMAP.md#3-summaries-and-chapters--摘要与章节).
+
 ## Cost model
 
 Wall clock is dominated by the re-encode at roughly 1–2× realtime. A 45-minute 1080p talk is a 30–45 minute encode — long enough that the job must run in the background with a timeout that outlives it.

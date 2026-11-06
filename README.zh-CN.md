@@ -64,7 +64,7 @@ examples/
 - [用法](docs/zh-CN/USAGE.md) —— 输入、交付方式、什么才算完成
 - [流程](docs/zh-CN/PIPELINE.md) —— 九个步骤，以及每一步为什么存在
 - [排障](docs/zh-CN/TROUBLESHOOTING.md) —— 你真会撞上的那些故障
-- [路线图](docs/zh-CN/ROADMAP.md) —— 双向模式、回译校验、转写兜底
+- [路线图](docs/zh-CN/ROADMAP.md) —— 双向模式、回译校验、摘要与章节、转写兜底
 
 English: [README](README.md) · [docs](docs)
 
@@ -79,7 +79,8 @@ English: [README](README.md) · [docs](docs)
 
 方向，不是承诺——见 [docs/zh-CN/ROADMAP.md](docs/zh-CN/ROADMAP.md)。
 
-- **双向模式**（计划中）：中译外 / 外译中可切换，版式随目标语言翻转
+- **双向模式**（计划中）：源语言与目标语言可切换，版式随目标语言翻转
+- **双语摘要 + 章节标记**（计划中）：从句级翻译块生成带时间戳的结论、提纲与引文
 - 只出字幕、不重编码
 - 无字幕轨时用 Whisper 兜底
 - ASS 样式预设与预览缩略图
