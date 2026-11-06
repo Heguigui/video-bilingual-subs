@@ -1,0 +1,54 @@
+1
+00:00:00,040 --> 00:00:03,850
+我最近发了很多关于应该怎么用
+Claude Code 的内容。
+I've been posting a lot recently about
+things you should do with Claude Code.
+
+2
+00:00:03,900 --> 00:00:07,709
+而且大多是从偏理念的角度切入的。
+And mostly I've been approaching it from the
+kind of philosophy angle.
+
+3
+00:00:07,759 --> 00:00:11,764
+换句话说，大家都觉得这是一次范式转变，但
+其实我们过去 20 年一直在做的那些事，
+In other words, kind of everyone's thinking
+this is a new paradigm shift, but actually
+just the stuff
+
+4
+00:00:11,814 --> 00:00:15,819
+用在 Claude Code 上效果非常非常好。
+we've been doing for 20 years is really,
+really good with Claude Code.
+
+5
+00:00:15,869 --> 00:00:19,874
+当你把它当成团队里可以委派工作的人来
+对待时，你才能从它身上得到最大的收益。
+You get the most out of it when you treat it
+like someone you would delegate to in your
+team.
+
+6
+00:00:19,924 --> 00:00:23,682
+换句话说，你专注于架构，专注
+于确保自己有良好的反馈回路，
+In other words you focus on the
+architecture, you focus on making sure that
+you've got good feedback
+
+7
+00:00:23,732 --> 00:00:27,490
+专注于我们过去 20 年一直在做的所有事情。
+loops, you focus on all the things we've
+been doing for the last 20 years.
+
+8
+00:00:27,540 --> 00:00:30,978
+前期不要规划太多，诸如此类。
+Not planning too much up front, all that
+stuff.

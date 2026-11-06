@@ -1,0 +1,27 @@
+# work dirs
+work/
+*.mp4
+*.mkv
+*.ts
+*.webm
+
+# but keep the sample subtitle
+!examples/*.srt
+
+# ffmpeg download
+ff/
+ffmpeg.zip
+master.m3u8
+rend*.txt
+
+# python
+__pycache__/
+*.pyc
+.venv/
+
+# editor
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+out.json
